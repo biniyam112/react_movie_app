@@ -1,0 +1,204 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "/home/bone/ReactAppProjects/movie_app",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2022-06-29 16:15:11",
+            "filesum": 30,
+            "codesum": 28942,
+            "commentsum": 37,
+            "blanksum": 61,
+            "filelist": [
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": ".gitignore"
+                },
+                {
+                    "filename": "build/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build/logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build/logo512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "build/manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "build/robots.txt"
+                },
+                {
+                    "blank": 2,
+                    "code": 28555,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 3,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "filename": "public/favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 23,
+                    "filename": "public/index.html"
+                },
+                {
+                    "filename": "public/logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public/logo512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "public/manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "public/robots.txt"
+                },
+                {
+                    "blank": 15,
+                    "code": 21,
+                    "comment": 4,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 5,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "src/App.css"
+                },
+                {
+                    "blank": 5,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "src/App.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "src/App.test.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 78,
+                    "comment": 0,
+                    "filename": "src/components/header/header.css"
+                },
+                {
+                    "blank": 1,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "src/components/header/header.jsx"
+                },
+                {
+                    "filename": "src/components/header/logo.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src/home/home.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "src/home/home_card.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src/home/home_page.jsx"
+                },
+                {
+                    "blank": 5,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "src/home/homes.jsx"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "src/index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "src/index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "src/logo.svg"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "src/reportWebVitals.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "src/setupTests.js"
+                }
+            ]
+        }
+    ]
+}
